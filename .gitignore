@@ -1,0 +1,4 @@
+.idea/*
+!.idea/dictionaries/*.xml
+!.idea/encodings.xml
+*.iml
