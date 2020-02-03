@@ -47,6 +47,7 @@ if %choice2%==6 goto MODIFY_PARAM_password
 if %choice2%==7 goto MODIFY_PARAM_port
 if %choice2%==8 goto MODIFY_PARAM_allow_remote_root_access
 echo wrong option, please reselect
+pause
 GOTO MENU
 
 :MODIFY_PARAM_installer
